@@ -29,18 +29,23 @@
    <section class="container">
    
     <div class="content row">
-      
+       <?php include '_/components/php/header.php' ; ?>
+       <?php include '_/components/php/snippet-carousel.php' ; ?>
+
       <section class="main col col-lg-8">
-      
+       <?php include '_/components/php/article-intro.php' ; ?>
+       <?php include '_/components/php/article-exercise.php' ; ?>
 
         <section class="wow bounce" data-wow-duration="2s"  data-wow-iteration="5">Hello! Xin chào các bạn !!!</section>
       </section> 
       <section class="sidebar col col-lg-4">
-        
+         <?php include '_/components/php/aside-register.php' ; ?>
+         <?php include '_/components/php/aside-accordion.php' ; ?>
 
       </section>
 
     </div>
+     <?php include '_/components/php/footer.php' ; ?>
     </section> <!-- container -->
     
   </body>
