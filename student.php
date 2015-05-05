@@ -19,9 +19,9 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head >
- <body>
+ <body class="finebody">
   <?php include '_/components/php/header.php' ; ?>
- <div class="container">	
+ <div class="contain">	
 
 <h3><em>“Is there a way to strengthen someone’s willpower?”</em></h3>
 <p>That was the question on researchers&#8217; minds as they learned more about how the science behind this human virtue.</p>

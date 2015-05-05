@@ -19,9 +19,9 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head >
- <body>
+ <body class="finebody">
   <?php include '_/components/php/header.php' ; ?>
-  <div class="container">
+  <div class="contain">
   	
 <h4>Dear all,</h4>
 <p>This website is dedicate to you by <a href="#">@ToanLM</a>.Initially, I was building this for purpose of practice Bootstrap and Html so I just put some shit for the content.
