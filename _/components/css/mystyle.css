@@ -1,0 +1,21 @@
+p,div,section {
+font-family: 'Playfair Display', serif;
+ 
+   
+}
+h1,h2,h3,h4,h5{
+font-family: 'Muli', sans-serif;
+  
+}
+h1,h2,h3,h4,h5,p,div,section{
+	font-size: 20;
+ 
+
+}
+li.active{
+  background: #337ab7;
+}
+li.active a{
+  foreground: #ffffff;
+}
+

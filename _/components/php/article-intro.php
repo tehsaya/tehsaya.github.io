@@ -5,6 +5,5 @@
   When you focus your attention upon an object, your every action, voluntary and involuntary, is in the direction of attaining that object. If you will focus your
    energies upon a thing to the exclusion of everything else, you generate the force that can bring you what you want...</p>
 <?php include "snippet-concentrationphoto.php"; ?>
-<a href="#" class="btn btn-primary ">Warming up now!</a>
+<a href="exercise.php" class="btn btn-primary ">Warming up now!</a>
 
-</article>

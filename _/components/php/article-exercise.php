@@ -5,5 +5,5 @@
 	 you conquer the rebellious attention you have achieved a greater victory than you can realize at the time. Many times afterwards you will be thankful you have learned
 	  to concentrate your closest attention upon the object at hand...
 </p>
-<a href="#">Read more... </a>
+<a href="about.php">Read more... </a>
 </article>

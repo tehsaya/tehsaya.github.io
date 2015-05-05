@@ -1,0 +1,32 @@
+a{
+	color: black;
+}
+body{
+	background: #E7E7E7;
+
+}
+.container{
+	   margin: 295px;
+}
+p,div,section {
+font-family: 'Playfair Display', serif;
+ 
+   
+}
+h1,h2,h3,h4,h5{
+font-family: 'Muli', sans-serif;
+  
+}
+h1,h2,h3,h4,h5,p,div,section{
+	font-size: 20;
+  background: white;
+    padding: 10px 100px;
+
+}
+p{
+	line-height: 190%;
+	word-spacing: 2px
+}
+::selection {
+  background: #0F0F0F;
+}
